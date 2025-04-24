@@ -15,7 +15,7 @@ A clean, retro-style implementation of the classic **Snake Game** using **HTML5 
 
 You can play the game here: *(Add GitHub Pages link or local demo instructions)*
 
-![Game Screenshot](assets/snake.jpg)
+![Game Screenshot](screenshot.jpg)
 
 ## 🛠️ Built With
 
