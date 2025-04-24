@@ -11,9 +11,10 @@ A clean, retro-style implementation of the classic **Snake Game** using **HTML5 
 - High score tracking *(optional to add)*
 - Classic styling with a fun message on game over
 
-## Screenshot
+## Screenshots
 
 ![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot2.png)
 
 ## 🛠️ Built With
 
